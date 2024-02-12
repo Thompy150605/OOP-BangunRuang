@@ -12,8 +12,8 @@ public:
     Kubus(double sisi); // Konstruktor
     ~Kubus(); // Destruktor
 
-    double getVolume() const override; // Volume Kubus
-    double getSurfaceArea() const override; // Luas Permukaan Kubus
+    double getVolume() const override; // Menghitung Volume
+    double getSurfaceArea() const override; // Menghitung Luas Permukaan
 };
 
 #endif

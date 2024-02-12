@@ -1,6 +1,6 @@
 #include "Silinder.hpp"
 
-Silinder::Silinder(double r, double h) : radius(r), tinggi(h) {} // Konstruktor
+Silinder::Silinder(double r, double h) : BangunRuang("Balok", 3, 2), radius(r), tinggi(h) {} // Konstruktor
 Silinder::~Silinder() {} // Destruktor
 
 double Silinder::getVolume() const { // Rumus Volume Tabung

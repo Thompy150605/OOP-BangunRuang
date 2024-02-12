@@ -8,16 +8,16 @@
 
 class Silinder : public BangunRuang {
 private:
-    double radius; // Jari Jari Lingkaran
-    double tinggi; // Tinggi Silinder
-    const double PI = 3.14159265358979323846; // Define konstanta PI
+    double radius;
+    double tinggi;
+    const double PI = 3.14159265358979323846;
 
 public:
-    Silinder(double r, double h); // Konstruktor
-    ~Silinder(); // Destruktor
+    Silinder(double r, double h);
+    ~Silinder();
 
-    double getVolume() const override; // Volume Kubus
-    double getSurfaceArea() const override; // Luas Permukaan Kubus
+    double getVolume() const override;
+    double getSurfaceArea() const override;
 };
 
 #endif

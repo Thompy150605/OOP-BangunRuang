@@ -7,15 +7,15 @@
 
 class Balok : public BangunRuang {
 private:
-    double panjang; // Panjang Balok
-    double lebar; // Lebar Balok
-    double tinggi; // Tinggi Balok
+    double panjang;
+    double lebar;
+    double tinggi;
 public:
     Balok(double p, double l, double t);
     ~Balok();
 
-    double getVolume() const; // Volume Balok
-    double getSurfaceArea() const; // Luas Permukaan Balok
+    double getVolume() const;
+    double getSurfaceArea() const;
 };
 
 #endif

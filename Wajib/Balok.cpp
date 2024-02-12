@@ -1,6 +1,6 @@
 #include "Balok.hpp"
 
-Balok::Balok(double p, double l, double t) : panjang(p), lebar(l), tinggi(t) {} // Konstruktor
+Balok::Balok(double p, double l, double t) : BangunRuang("Balok", 6, 12), panjang(p), lebar(l), tinggi(t) {} // Konstruktor
 Balok::~Balok() {} // Destruktor
 
 double Balok::getVolume() const { // Rumus Volume Balok
