@@ -1,0 +1,3 @@
+D:/gws RSC/Tugas 1 Firmware/build/CMakeFiles/HitungBangunRuang.dir
+D:/gws RSC/Tugas 1 Firmware/build/CMakeFiles/edit_cache.dir
+D:/gws RSC/Tugas 1 Firmware/build/CMakeFiles/rebuild_cache.dir

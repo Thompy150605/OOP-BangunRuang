@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/gws RSC/Tugas 1 Firmware/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HitungBangunRuang.dir\\Main.cpp.obj -c \"D:\\gws RSC\\Tugas 1 Firmware\\Main.cpp\"",
+  "file": "D:/gws RSC/Tugas 1 Firmware/Main.cpp",
+  "output": "CMakeFiles/HitungBangunRuang.dir/Main.cpp.obj"
+},
+{
+  "directory": "D:/gws RSC/Tugas 1 Firmware/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HitungBangunRuang.dir\\Balok.cpp.obj -c \"D:\\gws RSC\\Tugas 1 Firmware\\Balok.cpp\"",
+  "file": "D:/gws RSC/Tugas 1 Firmware/Balok.cpp",
+  "output": "CMakeFiles/HitungBangunRuang.dir/Balok.cpp.obj"
+},
+{
+  "directory": "D:/gws RSC/Tugas 1 Firmware/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HitungBangunRuang.dir\\Kubus.cpp.obj -c \"D:\\gws RSC\\Tugas 1 Firmware\\Kubus.cpp\"",
+  "file": "D:/gws RSC/Tugas 1 Firmware/Kubus.cpp",
+  "output": "CMakeFiles/HitungBangunRuang.dir/Kubus.cpp.obj"
+},
+{
+  "directory": "D:/gws RSC/Tugas 1 Firmware/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HitungBangunRuang.dir\\Silinder.cpp.obj -c \"D:\\gws RSC\\Tugas 1 Firmware\\Silinder.cpp\"",
+  "file": "D:/gws RSC/Tugas 1 Firmware/Silinder.cpp",
+  "output": "CMakeFiles/HitungBangunRuang.dir/Silinder.cpp.obj"
+},
+{
+  "directory": "D:/gws RSC/Tugas 1 Firmware/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HitungBangunRuang.dir\\BangunRuang.cpp.obj -c \"D:\\gws RSC\\Tugas 1 Firmware\\BangunRuang.cpp\"",
+  "file": "D:/gws RSC/Tugas 1 Firmware/BangunRuang.cpp",
+  "output": "CMakeFiles/HitungBangunRuang.dir/BangunRuang.cpp.obj"
+}
+]
